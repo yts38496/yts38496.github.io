@@ -1,0 +1,44 @@
+p {
+    color: #333333
+}
+
+.pcoffee {
+    color: #552712;
+    font-style: sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.ptea {
+    color: #333333;
+    font-style: arial;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.pcookie {
+    color: #333333;
+    font-style: verdana;
+    font-size: 14px;
+}
+
+.pcake {
+    color: #333333;
+    font: verdana;
+    font-size: 14px;
+}
+
+li {
+    color: #333333;
+    font: verdana;
+    font-size: 14px;
+}
+
+body {
+    background-image: url(../index/bg_pattern1_aozora.png);
+    background-repeat: repeat;
+    background-color: #FDF4CC;
+    background-attachment: fixed;
+    margin-top: 5em;
+}
