@@ -1,0 +1,11 @@
+.pcake {
+    color: #2F1C0F;
+}
+
+body {
+    background-image: url(../portfolio/063b.jpg);
+    background-size: 100%;
+    background-repeat: repeat;
+    background-color: #FDF4CC;
+    background-attachment: fixed;
+}
